@@ -1,1 +1,0 @@
-THis is the example on how to add new file to existing repository from git
